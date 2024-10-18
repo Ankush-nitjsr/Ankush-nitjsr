@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi 👋 I am Ankush </br>
+<b>Full Stack Developer</b> </br></br>
+Currently working as Senior Software Developer @ Aventisia Technologies. Frontend developer by heart, love to create cool and real life apps. Have experience in ReactJs, ASP.NET, Springboot, MySQL, PostgreSQL and Git. </br></br>
+Used UI components from Material UI, shadcn, Radix UI to build dynamic web apps. </br></br>
+Proficient in using frontend technologies like tailwind CSS, react-router-dom, Axios, react-query, Framer-motion, CharJs, react-toastify, sooner and Vite. </br></br>
 
-<!--
-**Ankush-nitjsr/Ankush-nitjsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌏 I'm based in Gurugram, India.
+- 👨‍💻 Working in Aventisia Technologies Pvt. Ltd.
+- 📧 You can contact me at ankushnitjsr@gmail.com
+- 🤝 I'm open to collaborating on interesting projects
 
-Here are some ideas to get you started:
+### Skills
+- <b>Languages</b>: JavaScript, TypeScript, HTML5, CSS3, Java, C# and SQL. </br>
+- <b>Developer Tools</b>: VS Code, Visual Studio. </br>
+- <b>Frontend Technologies</b>: ReactJS, Redux,, Zustand, Tailwind CSS </br>
+- <b>Backend</b>: ASP.NET Core, Entity Framework, RESTful APIs </br>
+- <b>Tools</b>: Git, Github, Postman. </br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
