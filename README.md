@@ -5,7 +5,7 @@ Used UI components from Material UI, shadcn, Radix UI to build dynamic web apps.
 Proficient in using frontend technologies like tailwind CSS, react-router-dom, Axios, react-query, Framer-motion, CharJs, react-toastify, sooner and Vite. </br></br>
 
 - 🌏 I'm based in Gurugram, India.
-- 👨‍💻 Working in Windsor Technologies.
+- 👨‍💻 Working in Samta AI.
 - 📧 You can contact me at ankushnitjsr@gmail.com
 - 🤝 I'm open to collaborating on interesting projects
 
